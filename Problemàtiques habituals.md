@@ -33,11 +33,13 @@
 **Falta Disco Duro/Disco sin formatear: Hará pitido POST OK. Mensaje de SYSTEM NOT FOUND.**  
   Iniciamos el sistema y cuando vemos que no arranca y leemos System not found. Comprobamos el disco duro y vemos que no está o no está conectado correctamente.  
 **BIOS mal flasheada: No arranca. No hay problema en el caso DUAL BIOS.**  
-  Iniciamos el ordenador y no arranca la BIOS. 
+  Iniciamos el ordenador y no arranca la BIOS.  
 **Disco duro con error SMART: Error POST. Hard drive SMART error. Permite omitir el error.**  
 **Pantalla rota/cable roto: Arranca con normalidad.**  
   Encendemos el ordenador, suena el pitido de POST y el teclado y el ratón se iluminan , pero no vemos nada por pantalla. Comprobamos el cable de vídeo cambiandolo por otro , y cambiando la pantalla por otra , si funcionan es porque estaban mal los anteriores.  
 **USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive.**  
+  Cuando iniciamos el ordenador , nos avisa la BIOS o el sistema operativo una vez iniciado.  
 **USB del frontal conectado mal en placa (otro conector que no es USB): Quema los pendrive (sobrevoltaje).**  
+  Cuando iniciamos el ordenador , nos avisa la BIOS o el sistema operativo una vez iniciado.  
 **Pila de la BIOS esgotada**  
   Al encender el ordenador con normalidad vemos que el sistema tiene la fecha y hora mal puesta.
